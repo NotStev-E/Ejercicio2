@@ -1,0 +1,22 @@
+.login{
+    margin: 1rem 1rem;
+}
+.close{
+    font-size: 1.7rem;
+    font-weight: 400;
+    color: var(--colorTextoClaro);
+}
+.titulo{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4.5rem;
+    font-weight: 800;
+
+    margin-top: 3.8rem;
+}
+.tituloDecorado{
+    font-size: 2rem;
+    font-weight: 600;
+}
+body{
+    background-image: url(https://i.imgur.com/GW1KfVX.png);
+}
